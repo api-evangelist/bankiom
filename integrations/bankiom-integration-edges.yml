@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/bankiom/integrations
+- https://n8n.io/integrations/bankiom/
+- https://composio.dev/toolkits/bankiom
+- https://monid.ai/tools/bankiom
+checked:
+- https://composio.dev/toolkits/bankiom
+- https://monid.ai/tools/bankiom
+- https://n8n.io/integrations/bankiom/
+- https://zapier.com/apps/bankiom/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
